@@ -1,4 +1,24 @@
-## **TECHNICAL SKILLS**
+# **Hi, I'm Samantha!**
+21 years old from North Fairview, Quezon City, Metro Manila, Philippines.
+
+## 💡 **EDUCATION**
+- College | BS Computer Science | 1st Year - present | Class of 2021 - present | New Era University
+- Senior Highschool | Grade 11 - 12 | Class of 2019 - 2021 | New Era University Integrated School
+  - Vice President of Class Section
+  - Member of Robotics Club
+  - Member of Artist Club
+- Junior Highschool | Grade 10 | Class of 2018 - 2019 | National College of Business and Arts
+  - Member of English Club
+- Junior Highschool | Grade 7 - 9 | Class of 2016 - 2018 | New Era University Integrated School
+  - Secretary of Class Section (Grade 7 - 9)
+  - Member of Sports Club
+- Elementary School | Grade 1 - 6 | Class of 2010 - 2015 | New Era University Integrated School
+  - Secretary of Class Section (Grade 4 - 6)
+  - Member of Young Artist Club
+  - Member of Sports Club
+- Pre-school | Class of 2009 | New Era University Integrated School
+
+## 🌐 **TECHNICAL SKILLS**
 - **HARD SKILLS:**
   - Software Skills
     - Microsoft Word
@@ -25,65 +45,19 @@
   - Computer and social proficient
   - Working knowledge in Japanese and Italian
 
-## **EDUCATION**
-- Senior Highschool | Grade 11 - 12 | Class of 2019 - 2021 | New Era University Integrated School
-  - Vice President of Class Section
-  - Member of Robotics Club
-  - Member of Artist Club
-- Junior Highschool | Grade 10 | Class of 2018 - 2019 | National College of Business and Arts
-  - Member of English Club
-- Junior Highschool | Grade 7 - 9 | Class of 2016 - 2018 | New Era University Integrated School
-  - Secretary of Class Section (Grade 7 - 9)
-  - Member of Sports Club
-- Elementary School | Grade 1 - 6 | Class of 2010 - 2015 | New Era University Integrated School
-  - Secretary of Class Section (Grade 4 - 6)
-  - Member of Young Artist Club
-  - Member of Sports Club
-- Pre-school | Class of 2009 | New Era University Integrated School
+## 📜 **CERTIFICATES**
+- [(Business Analytics With Excel Badge | September 7, 2023)](https://simpli-web.app.link/e/5OvmqwIGZCb)
+- [(Oracle Cloud Management Badge | November 23, 2022)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=35BE8BB9B90DA1B6C5D5297F6EFBCFEDD0D8AEF58911344F37F6BB99E876E3A3)
+- [(Oracle Cloud Infustrcucture Badge | November 21, 2022)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EE8A2B06E2585B4615B037313C705BD4A25963F695905CB1A40B049026C7783A)
+- [(Cognitive Class Badge | October 19, 2022)](https://courses.cognitiveclass.ai/certificates/dcf24ba927f64eabb4bb7eaee203477b)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## 🗣️**LANGUAGE(S)**
+- Filipino
+- English
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
+## 🔗**CONNECT WITH ME**
+- 📱 0935 489 2348
+- 📧 1023inessamantha@gmail.com
+- 👨‍💼 https://www.linkedin.com/in/samantha-pauline-ines-8a205b258/
+- 🌐 https://sites.google.com/neu.edu.ph/samanthapaulineines/home
+- 🏠 North Fairview, Quezon City
