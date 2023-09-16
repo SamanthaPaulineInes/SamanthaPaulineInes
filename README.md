@@ -10,7 +10,7 @@
 </p>
 
 <h1>🌐TECHNICAL SKILLS</h1>
-<img src="https://media.discordapp.net/attachments/1152594874575626321/1152610712942805052/Screenshot_2023-09-16_222246.png?width=1432&height=204" width="2000" height="140">
+<img src="https://media.discordapp.net/attachments/1152594874575626321/1152610712942805052/Screenshot_2023-09-16_222246.png?width=1432&height=204" width="700" height="100">
 
 <h1>📜CERTIFICATES</h1>
 <a href="https://simpli-web.app.link/e/5OvmqwIGZCb">▣ Business Analytics with Excel | September 7, 2023</a>
@@ -20,10 +20,12 @@
 
 <h1>🗣️LANGUAGE(S)</h1>
 <p>▣ Filipino
-<p>▣ English
-<p>▣ Working knowledge on Japanese and Italian</p>
+<br>▣ English
+<br>▣ Working knowledge on Japanese and Italian
+</p>
 
 <h1>🔗CONNECT WITH ME</h1>
 <p>📧 1023inessamantha@gmail.com
-<p>👨‍💼 https://www.linkedin.com/in/samantha-pauline-ines-8a205b258/
-<p>🌐 https://sites.google.com/neu.edu.ph/samanthapaulineines/home
+<br>👨‍💼 https://www.linkedin.com/in/samantha-pauline-ines-8a205b258/
+<br>🌐 https://sites.google.com/neu.edu.ph/samanthapaulineines/home
+</p>
