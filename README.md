@@ -1,5 +1,5 @@
 # **Hi, I'm Samantha!**
-21 years old from North Fairview, Quezon City, Metro Manila, Philippines.
+21 years old from North Fairview, Quezon City, Metro Manila, Philippines
 
 ## 💡 **EDUCATION**
 - College | BS Computer Science | 1st Year - present | Class of 2021 - present | New Era University
