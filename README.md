@@ -13,8 +13,8 @@
 <img src="https://media.discordapp.net/attachments/1152594874575626321/1152610712942805052/Screenshot_2023-09-16_222246.png?width=1432&height=204" width="700" height="100">
 
 <h1>📜CERTIFICATES</h1>
-<a href="https://www.credly.com/badges/dd35ccde-d4ad-49b3-9d7c-903a00881689/public_url"><br>▣ Data Analytics Essentials | October 5, 2023</a>
-<a href="https://simpli-web.app.link/e/5OvmqwIGZCb">▣ Business Analytics with Excel | September 7, 2023</a>
+<a href="https://www.credly.com/badges/dd35ccde-d4ad-49b3-9d7c-903a00881689/public_url">▣ Data Analytics Essentials | October 5, 2023</a>
+<a href="https://simpli-web.app.link/e/5OvmqwIGZCb"><br>▣ Business Analytics with Excel | September 7, 2023</a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=35BE8BB9B90DA1B6C5D5297F6EFBCFEDD0D8AEF58911344F37F6BB99E876E3A3"><br>▣ Oracle Cloud Management Badge | November 23, 2022</a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=EE8A2B06E2585B4615B037313C705BD4A25963F695905CB1A40B049026C7783A"><br>▣ Oracle Cloud Infustrcucture Badge | November 21, 2022</a>
 <a href="https://courses.cognitiveclass.ai/certificates/dcf24ba927f64eabb4bb7eaee203477b"><br>▣ Cognitive Class Badge | October 19, 2022</a>
