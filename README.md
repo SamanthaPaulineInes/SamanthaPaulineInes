@@ -31,7 +31,6 @@
 </p>
 
 <h1>🔗CONNECT WITH ME</h1>
-<p>📧 1023inessamantha@gmail.com
-<br>👨‍💼 https://www.linkedin.com/in/samantha-pauline-ines-8a205b258/
-<br>🌐 https://sites.google.com/neu.edu.ph/samanthapaulineines/home
+<a href="mailto:1023inessamantha@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/samantha-pauline-ines-8a205b258/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
