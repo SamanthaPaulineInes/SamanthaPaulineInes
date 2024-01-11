@@ -1,17 +1,17 @@
 [![ProfilePic](https://media.discordapp.net/attachments/1152594874575626321/1152598416795369582/image.png?width=1432&height=396)](https://canva.com)
 
 <h1>💡EDUCATION</h1>
-<p>▣ College | BS Computer Science | 1st Year - present | Class of 2021 - present | New Era University
-<br>▣ Senior Highschool | Grade 11 - 12 | Class of 2019 - 2021 | New Era University Integrated School
-<br>▣ Junior Highschool | Grade 10 | Class of 2018 - 2019 | National College of Business and Arts
-<br>▣ Junior Highschool | Grade 7 - 9 | Class of 2016 - 2018 | New Era University Integrated School
-<br>▣ Elementary School | Grade 1 - 6 | Class of 2010 - 2015 | New Era University Integrated School
-<br>▣ Pre-school | Class of 2009 | New Era University Integrated School
+<p>▣ College | BS Computer Science | 3rd Year | Class of 2023 - 2024 | New Era University
+<p>▣ College | BS Computer Science | 2nd Year | Class of 2022 - 2023 | New Era University
+<p>▣ College | BS Computer Science | 1st Year | Class of 2021 - 2022 | New Era University
 </p>
 
-<h1>🌐TECHNICAL SKILLS</h1>
-<img src="https://media.discordapp.net/attachments/1152594874575626321/1152610712942805052/Screenshot_2023-09-16_222246.png?width=1432&height=204" width="700" height="100">
-
+<h1>🌐LANGUAGE SKILLS</h1>
+<p><a><img src="https://media.discordapp.net/attachments/1152594874575626321/1194943552560574474/html.png?ex=65b230e7&is=659fbbe7&hm=a1b78d03b24b6eb919792981aead8e28ae3f074692cabf3c9076880d637b8a96&=&format=webp&quality=lossless&width=423&height=480" width="80" height="80">
+<img src="https://media.discordapp.net/attachments/1152594874575626321/1194943570684158033/css.png?ex=65b230ec&is=659fbbec&hm=c919d30d21d1c3b66d13e2aa81324d2555fb3d9c7acc6edda55003d14f7ab0b3&=&format=webp&quality=lossless&width=427&height=480" width="80" height="80">
+<img src="https://media.discordapp.net/attachments/1152594874575626321/1194943586723176488/js.png?ex=65b230f0&is=659fbbf0&hm=e167ecec77f2b7b3465c63fe6ca74461dfce4b737486c554e56d35970ca30777&=&format=webp&quality=lossless&width=337&height=379" width="80" height="80">
+<img src="https://media.discordapp.net/attachments/1152594874575626321/1194943607354962000/java.png?ex=65b230f4&is=659fbbf4&hm=03f575698c5e0ba5261d841e8e7b73add806346ff54d737defd4d6c50d89fef9&=&format=webp&quality=lossless&width=354&height=480" width="80" height="80"></p></a>
+  
 <h1>📜CERTIFICATES</h1>
 <a href="https://www.kaggle.com/learn/certification/samanthapaulineines/intro-to-programming">▣ Intro to Programming | November, 9, 2023</a>
 <a href="https://www.credly.com/badges/703ae70a-9579-42e5-a1ad-9e15cd6a39de/public_url"><br>▣ Introduction to Data Science | October 5, 2023</a>
