@@ -1,4 +1,10 @@
-<img src="https://media.discordapp.net/attachments/1152594874575626321/1195574472124669983/me.png?ex=65b47c7e&is=65a2077e&hm=99c6ee368c068f62ab8487c82c1a4c0df0603d35610cfea23bd4417be190d03d&=&format=webp&quality=lossless&width=1345&height=575" width="4000" height="400">
+<img src="https://media.discordapp.net/attachments/1152594874575626321/1195574472124669983/me.png?ex=65b47c7e&is=65a2077e&hm=99c6ee368c068f62ab8487c82c1a4c0df0603d35610cfea23bd4417be190d03d&=&format=webp&quality=lossless&width=1345&height=575" width="4000" height="395">
+
+<a href="mailto:1023inessamantha@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/samantha-pauline-ines-8a205b258/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/pauline.ines/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/samanthapauline.ines"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+<a href="@SamanthaInes1023"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 <h1>💡EDUCATION</h1>
 <p>▣ College | BS Computer Science | 3rd Year | Class of 2023 - 2024 | New Era University
@@ -28,12 +34,4 @@
 <p>▣ Filipino
 <br>▣ English
 <br>▣ Working knowledge on Japanese and Italian
-</p>
-
-<h1>🔗CONNECT WITH ME</h1>
-<a href="mailto:1023inessamantha@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/samantha-pauline-ines-8a205b258/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/pauline.ines/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/samanthapauline.ines"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-<a href="@SamanthaInes1023"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
