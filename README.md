@@ -1,4 +1,4 @@
-[![ProfilePic](https://media.discordapp.net/attachments/1152594874575626321/1152598416795369582/image.png?width=1432&height=396)](https://canva.com)
+<img src="https://media.discordapp.net/attachments/1152594874575626321/1195574472124669983/me.png?ex=65b47c7e&is=65a2077e&hm=99c6ee368c068f62ab8487c82c1a4c0df0603d35610cfea23bd4417be190d03d&=&format=webp&quality=lossless&width=1345&height=575" width="4000" height="400">
 
 <h1>💡EDUCATION</h1>
 <p>▣ College | BS Computer Science | 3rd Year | Class of 2023 - 2024 | New Era University
