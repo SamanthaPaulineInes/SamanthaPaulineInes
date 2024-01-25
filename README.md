@@ -26,6 +26,7 @@
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=35BE8BB9B90DA1B6C5D5297F6EFBCFEDD0D8AEF58911344F37F6BB99E876E3A3"><br>▣ Oracle Cloud Management Badge | November 23, 2022</a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=EE8A2B06E2585B4615B037313C705BD4A25963F695905CB1A40B049026C7783A"><br>▣ Oracle Cloud Infustrcucture Badge | November 21, 2022</a>
 <a href="https://courses.cognitiveclass.ai/certificates/dcf24ba927f64eabb4bb7eaee203477b"><br>▣ Cognitive Class Badge | October 19, 2022</a>
+<a href="https://courses.cognitiveclass.ai/certificates/dcf24ba927f64eabb4bb7eaee203477b"><img alt="Cognitive" src="https://media.discordapp.net/attachments/1152594874575626321/1199872919497605150/Screenshot_2024-01-25_082625.png?ex=65c41fbc&is=65b1aabc&hm=c7c812b433b62e52a01ab0ea2d53a076df5e2d2be473d7cdf9d4ef30f4b04c89&=&format=webp&quality=lossless&width=342&height=210"/></a>
 
 <h1>📋PROJECTS</h1>
 <a href="https://drive.google.com/drive/folders/1CF7rUSAjaO6iBfwpTYim66pp4xa8iY4P?usp=sharing">▣ EDUCATIONAL GAME | DREAD FORTUNES | 2021</a>
